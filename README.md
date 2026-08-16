@@ -1,4 +1,4 @@
-# DSA-3050-midsem
+# DSA-3050-Endsem
 AMAZON SALE REPORT
 # SECTION A
 # 1.1. Source of the Dataset
